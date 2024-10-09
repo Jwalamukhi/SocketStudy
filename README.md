@@ -93,7 +93,8 @@ CLIENT
 
 SERVER
 
-![image](https://github.com/user-attachments/assets/7ccb7b1b-e07c-4a34-9563-92340cd37c57)
+![image](https://github.com/user-attachments/assets/d3ee5147-3c20-41b6-9584-fdc51b0e02f5)
+
 
 
 
